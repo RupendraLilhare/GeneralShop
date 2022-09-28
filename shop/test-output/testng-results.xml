@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41766" started-at="2022-08-25T07:01:56Z" finished-at="2022-08-25T07:02:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41766" started-at="2022-08-25T07:01:56Z" finished-at="2022-08-25T07:02:38Z">
+      <class name="General.shop.Ecomerce_tc_5">
+        <test-method status="PASS" signature="ConfigureAppium()[pri:0, instance:General.shop.Ecomerce_tc_5@77cd7a0]" name="ConfigureAppium" is-config="true" duration-ms="10317" started-at="2022-08-25T07:01:56Z" finished-at="2022-08-25T07:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method status="PASS" signature="fillform()[pri:0, instance:General.shop.Ecomerce_tc_5@77cd7a0]" name="fillform" duration-ms="30911" started-at="2022-08-25T07:02:06Z" finished-at="2022-08-25T07:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="close()[pri:0, instance:General.shop.Ecomerce_tc_5@77cd7a0]" name="close" is-config="true" duration-ms="526" started-at="2022-08-25T07:02:37Z" finished-at="2022-08-25T07:02:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- General.shop.Ecomerce_tc_5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
